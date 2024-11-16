@@ -1,5 +1,5 @@
 """
-源文件地址 Source file address: https://github.com/wangsan71/Change_Photo_XY
+源文件地址 Source file address: https://github.com/wangsan71/Photo_location_change
 """
 
 import tkinter as tk
