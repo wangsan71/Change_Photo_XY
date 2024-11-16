@@ -1,5 +1,5 @@
-# ReadMe
-### Here is the image positioning modifier used by "JetCar",
+# Photo location changer
+## Here is the image positioning modifier used by "JetCar", now we have v2.0.0
 ### The usage is very simple.
 1. When you start it, it will pop up two windows:
 1.1 Your original picture folder (it is recommended that you back up an original copy)
