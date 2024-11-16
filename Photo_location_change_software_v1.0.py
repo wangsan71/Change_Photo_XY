@@ -1,34 +1,4 @@
 """
-著作財產權聲明
-
-本聲明旨在明確聲明，本程序的所有內容均為作者獨家創作，並享有著作財產權。作者特此聲明，本程序內容不得被無法授權的第三方複製、修改、發布、傳播或以其他方式使用。
-
-然而，作者在此同意，本程序內容可以根據知識共享（Creative Commons）授權條款進行共享。根據該條款，任何人都可以自由地複製、修改、發布和傳播本程序內容，但必須遵守以下條件：
-
-無商業用途：本程序內容不得用於商業目的。
-獨立作品：本程序內容不得與其他作品混雜或結合。
-相同條款：任何基於本程序內容創作的衍生作品必須以相同的方式進行共享。
-請注意，本聲明並不影響作者對本程序內容的著作財產權的保留。作者保留對本程序內容的修改、更新和撤回共享的權利。
-
-本聲明自本程序首次發布之日起生效。作者保留在未經作者明確授權的情況下，修改本聲明的權利。
-
-------------------------------------------------------
-
-Copyright Statement
-
-This statement clearly states that all contents of this program are exclusively created by the author and enjoy copyright. The author hereby declares that the contents of this program shall not be copied, modified, published, transmitted, or used in any other way by unauthorized third parties.
-
-However, the author agrees to share the contents of this program under the Creative Commons license terms. According to the terms, anyone can freely copy, modify, publish, and transmit the contents of this program, but must comply with the following conditions:
-
-Non-commercial use: The contents of this program shall not be used for commercial purposes.
-Independent work: The contents of this program shall not be mixed or combined with other works.
-Same terms: Any derivative works based on the contents of this program must be shared in the same way.
-Please note that this statement does not affect the author's right to the copyright of the contents of this program. The author reserves the right to modify, update, and withdraw sharing of the contents of this program without the author's explicit permission.
-
-This statement takes effect as of the first release of this program. The author reserves the right to modify this statement without the author's explicit permission.
-
-聲明人 Statement by: wangsan71
-聲明日期 Statement Date: 2024-11-15
 源文件地址 Source file address: https://github.com/wangsan71/Change_Photo_XY
 """
 
