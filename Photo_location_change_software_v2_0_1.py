@@ -1,5 +1,5 @@
 """
-源文件地址 Source file address: https://github.com/wangsan71/Change_Photo_XY
+源文件地址 Source file address: https://github.com/wangsan71/Photo_location_change
 
 V2.0.1 Update: 2024-11-16 22:20 微升級版 Little update
     1. 在分頁視窗上做到了同步避免需要多次在兩個視窗上觀看不同的點位, 正在思考需不需要把兩個視窗改成一個視窗為圖片預覽和坐標點操作,
