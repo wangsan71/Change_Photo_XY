@@ -1,5 +1,5 @@
 """
-源文件地址 Source file address: https://github.com/wangsan71/Change_Photo_XY
+源文件地址 Source file address: https://github.com/wangsan71/Photo_location_change
 
 V2.0 Update: 2024-11-16 19:37 正式完成 Turely final version
     1. 為V1.1 & V1.0的改進, 添加了一些新功能以及模型預測功能正式完善
